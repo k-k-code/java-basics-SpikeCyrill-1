@@ -2,8 +2,9 @@ package com.brunoyam.unit_1;
 
 import com.brunoyam.unit_1.utils.Generator;
 
-import java.util.Arrays;
-
+/**
+ * Almost done
+ */
 public class Main {
 
     /*
